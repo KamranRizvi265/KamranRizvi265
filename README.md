@@ -24,8 +24,8 @@
 ---
 
 ## 📌 Featured Projects  
-- 🤖 [Jarvis-like Voice Assistant](#) – Voice-controlled assistant using Python (pyttsx3 & speech recognition)  
-- 📊 [Netflix Data Analysis](#) – Insights & visualization using Python (Pandas, Matplotlib)  
+- 🤖 [Jarvis Voice Assistant](https://github.com/KamranRizvi265/Playground/blob/main/Jarvis/Jarvis.py) – Voice-controlled assistant using Python (pyttsx3 & speech recognition)  
+- 📊 [Netflix Data Analysis](https://github.com/KamranRizvi265/Data_Science_Projects/blob/main/netflix_analysis.ipynb) – Insights & visualization using Python (Pandas, Matplotlib)  
 - 🌐 [Personal Portfolio](https://kamranrizvi265.github.io) – Showcasing my skills & projects  
 
 ---
@@ -33,16 +33,16 @@
 ## 📈 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KamranRizvi265&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamranRizvi265&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KamranRizvi265&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamranRizvi265&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamranRizvi265&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamranRizvi265&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KamranRizvi265&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KamranRizvi265&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
