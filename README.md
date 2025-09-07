@@ -26,7 +26,7 @@
 ## 📌 Featured Projects  
 - 🤖 [Jarvis Voice Assistant](https://github.com/KamranRizvi265/Playground/blob/main/Jarvis/Jarvis.py) – Voice-controlled assistant using Python (pyttsx3 & speech recognition)  
 - 📊 [Netflix Data Analysis](https://github.com/KamranRizvi265/Data_Science_Projects/blob/main/netflix_analysis.ipynb) – Insights & visualization using Python (Pandas, Matplotlib)  
-- 🌐 [Personal Portfolio](https://kamranrizvi265.github.io) – Showcasing my skills & projects  
+- 🌐 [Personal Portfolio](https://kamranrizvi265.github.io/my-portfolio/) – Showcasing my skills & projects  
 
 ---
 
