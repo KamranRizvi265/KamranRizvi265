@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kamran+Rizvi;B.Tech+CSE+(Data+Science+%26+AI)+Student;Aspiring+Data+Scientist+%7C+AI+Enthusiast;Always+Curious+%7C+Always+Learning">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kamran+Rizvi;B.Tech+CSE+(Data+Science+%26+AI)+Student;Data+Scientist+%7C+AI+Enthusiast;Always+Curious+%7C+Always+Learning">
 </p>
 
 ---
