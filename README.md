@@ -35,11 +35,11 @@
 
 ### 💻 Web Development & Backend
 - 🌐 [**Flask Projects**](https://github.com/KamranRizvi265/Flask_Projects) – Web applications built with Flask
-- 🖥️ [**Frontend Notes**](https://github.com/KamranRizvi265/Frontend_Notes) – HTML, CSS, and frontend learning resources
 - 🎨 [**Personal Portfolio**](https://github.com/KamranRizvi265/my-portfolio) – Showcasing my skills & projects
 
 ### 📚 Learning & Development
 - 📖 [**AI Engineer Notes**](https://github.com/KamranRizvi265/AI_Engineer_Notes) – AI learning path & resources
+- 🖥️ [**Frontend Notes**](https://github.com/KamranRizvi265/Frontend_Notes) – HTML, CSS, and frontend learning resources
 - 🔧 [**Backend Notes**](https://github.com/KamranRizvi265/Backend_Notes) – Backend development learning materials
 - 📘 [**C Notes**](https://github.com/KamranRizvi265/C_Notes) – C programming fundamentals & concepts
 - 💾 [**C Projects**](https://github.com/KamranRizvi265/C_Projects) – Practical C programming projects
